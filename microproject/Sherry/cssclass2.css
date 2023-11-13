@@ -1,0 +1,26 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+/* # is to target ID
+. is to target class
+h1 or any is used to target tag */
+#chacha{
+    width: 20%;
+    height: 40%;
+    padding: 20px;
+    /* margin: 50px; /* it will margin 50 px top ,left right up down*/
+    /* margin-left: 20px;will give margin only in left */
+
+    /* margin: 20px 10px 50px 40 ;like(cloclwise) margin Top right bottom left */
+    /* margin: 20px 30px;means 1stvalue topand bottom its parallel will be same 20px,like wise 30px for left and right */
+    background-color: blueviolet; */
+    /* padding is imaginary border inside the element  , padding andar space banata hai , while margin bahar space banata hai*/
+    
+   
+}
